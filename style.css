@@ -1,0 +1,73 @@
+body {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+}
+.flex-container {
+  display: flex;
+}
+.header-content {
+  width: 60%;
+  margin-left: 50px;
+  margin-top: 120px;
+}
+.header-content img {
+}
+
+h1 {
+  font-size: 60px;
+}
+h2 {
+  font-size: 40px;
+  text-align: center;
+}
+h3 {
+  font-size: 30px;
+}
+h4 {
+  font-size: 25px;
+}
+h2 span {
+  color: orange;
+}
+
+.header-color {
+  color: orange;
+}
+.header-content h1 {
+  border-left: 6px solid orangered;
+  padding-left: 15px;
+}
+.header-content p {
+  margin-bottom: 50px;
+  margin-top: 50px;
+  line-height: 2em;
+}
+
+.button {
+  background-color: orangered;
+  padding: 20px 40px;
+  font-size: 20px;
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.mission p {
+  font-size: 18px;
+  line-height: 2em;
+}
+.mission {
+  border-radius: 40px;
+  margin: 10px 20px;
+  padding: 20px 20px;
+}
+#mission-background {
+  background-color: aliceblue;
+}
+#vision-background {
+  background-color: pink;
+}
+#goal-background {
+  background-color: oldlace;
+}
