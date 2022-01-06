@@ -39,10 +39,6 @@ h5 {
   margin-top: 120px;
   margin: 120px 50px 0px 50px;
 }
-
-.header-color {
-  color: orange;
-}
 .header-content h1 {
   border-left: 6px solid orangered;
   padding-left: 15px;
@@ -51,7 +47,9 @@ h5 {
   margin-top: 50px;
   line-height: 2em;
 }
-
+.header-color {
+  color: orange;
+}
 .button {
   background-color: orangered;
   padding: 20px 40px;
@@ -63,16 +61,16 @@ h5 {
 .mission-container {
   margin-top: 100px;
 }
-
-.mission p {
-  font-size: 18px;
-  line-height: 2em;
-}
 .mission {
   border-radius: 40px;
   margin: 10px 0px 10px 50px;
   padding: 20px 20px;
 }
+.mission p {
+  font-size: 18px;
+  line-height: 2em;
+}
+
 #mission-background {
   background-color: aliceblue;
 }
@@ -117,11 +115,6 @@ h5 {
   width: 50%;
   margin-top: 30px;
 }
-input {
-  margin-top: 30px;
-  width: 300px;
-  padding: 10px;
-}
 .footer-area {
   background-color: black;
   color: white;
@@ -130,6 +123,11 @@ input {
 }
 .footer-area span {
   color: orangered;
+}
+input {
+  margin-top: 30px;
+  width: 300px;
+  padding: 10px;
 }
 .footer-area p {
   text-align: center;
